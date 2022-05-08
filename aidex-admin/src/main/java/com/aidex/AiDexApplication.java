@@ -24,9 +24,6 @@ public class AiDexApplication
         aidex.append("/_/    \\_\\_|_____/ \\___/_/\\_\\ |_____/|_| |_|\\__,_|_|  | .__/\n");
         aidex.append("                                                      | |\n");
         aidex.append("                                                      |_|");
-        System.out.println(
-
-
-        );
+        System.out.println(aidex);
     }
 }
